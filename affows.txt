@@ -2,7 +2,12 @@ The ship glides gently on the waves
 As day turns into night
 qqqqqqqqqqqqqqqqqqq
 tttttttttttttttttttt
+
 zzzzzzzzzzzzz
 tttttttttttttttttttt
 cccccccccccccc
 tttttttttttt
+
+cccccccccccccc
+yyyyyyyyy
+
